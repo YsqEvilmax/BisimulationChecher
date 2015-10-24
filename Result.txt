@@ -1,0 +1,14 @@
+Process P
+S=1,2,3
+A=a,b
+T=(1,a,2),(1,b,3),(2,a,3)
+Process Q
+S=1,2,3
+A=a,b
+T=(1,a,2),(1,b,3),(2,a,3)
+Bisimulation Results
+1,1
+2,2
+3,3
+Bisimulation Answer
+Yes
